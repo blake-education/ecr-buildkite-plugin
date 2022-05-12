@@ -14,6 +14,8 @@ configuration:
         - string
         - array
       minItems: 1
+    aws-partition:
+      type: string
     no-include-email:
       type: boolean
     region:
