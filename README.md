@@ -1,4 +1,6 @@
-# ECR Buildkite Plugin [![Build status](https://badge.buildkite.com/152a3248fa274dab20f022ff7b68e9de96a4fc3388de29d013.svg?branch=master)](https://buildkite.com/buildkite/plugins-ecr)
+# ECR Buildkite Plugin China [![Build status](https://badge.buildkite.com/152a3248fa274dab20f022ff7b68e9de96a4fc3388de29d013.svg?branch=master)](https://buildkite.com/buildkite/plugins-ecr)
+
+This has been forked and crudely modified to login to China ECR only
 
 A [Buildkite plugin](https://buildkite.com/docs/agent/v3/plugins) to login to an ECR repository before running a build step.
 
